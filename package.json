@@ -1,0 +1,42 @@
+{
+  "name": "fe-mpa-cli",
+  "version": "1.0.0",
+  "description": "cli tool for fe multipageapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqqiyuan/fe-mpa-cli.git"
+  },
+  "keywords": [
+    "fe-cli",
+    "tool",
+    "mpa"
+  ],
+  "author": "qiyuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqqiyuan/fe-mpa-cli/issues"
+  },
+  "homepage": "https://github.com/qqqiyuan/fe-mpa-cli#readme",
+  "devDependencies": {
+    "babel-loader": "^6.2.10",
+    "browser-sync": "^2.18.6",
+    "css-loader": "^0.26.1",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-less": "^3.3.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-webpack": "^1.5.0",
+    "less": "^2.7.2",
+    "less-loader": "^2.2.3",
+    "path": "^0.12.7",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.14.0"
+  }
+}
